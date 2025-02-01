@@ -16,7 +16,6 @@
 
 - [Muhammad Fachrurrazi, M.Pd.](https://www.instagram.com/fachru_rhazes_muhammad/) as produser
 - [Agung Ismail](https://www.instagram.com/ismaiiilagung/) as consultant architecture
-- [Ahmad Yani, S.Pd.I](https://wa.me/6282213542270/) as project manager 
-- [Wawan Irawan](https://github.com/wawan78) as front end developer
+- [Wawan Irawan](https://github.com/wawan78) as project manager
+- [Agung Nabhan Dimyati](mailto:agungnabhan414@daarululuumlido.com) as front end developer
 - [Hasan Basri](https://github.com/hasanbasri1993) as back end developer
-- [Faiz Rochmatullah Widhaputra](https://github.com/Neim5408) as ui designer
