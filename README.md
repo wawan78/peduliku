@@ -11,5 +11,5 @@
 - [Muhammad Fachrurrazi, M.Pd.](https://www.instagram.com/fachru_rhazes_muhammad/) as Producer
 - [Agung Ismail](https://www.instagram.com/ismaiiilagung/) as Consultant Architecture
 - [Wawan Irawan](https://github.com/wawan78) as Project Manager and Database Administrator
-- [Agung Nabhan Dimyati](mailto:agungnabhan414@daarululuumlido.com) as Front End Developer, UI Designer and Database Administrator
 - [Hasan Basri](https://github.com/hasanbasri1993) as Back End Developer, UI Designer and Database Administrator
+- [Agung Nabhan Dimyati](mailto:agungnabhan414@daarululuumlido.com) as Front End Developer, UI Designer and Database Administrator
